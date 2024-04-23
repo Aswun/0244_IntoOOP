@@ -30,5 +30,7 @@ class bangunDatar
 
 int main()
 {
-    
+    bangunDatar pp; // deklarasi objek pp dari class bangunDatar
+    pp.input();
+    pp.display();
 }
